@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Sumit",
+      "email": "sumit@ducat.com",
+      "mobile": "9632587410",
+      "course": "java full stack",
+      "city": "Delhi"
+    },
+    {
+      "id": "e834",
+      "name": "Amit",
+      "email": "amit@ducat.com",
+      "mobile": "9632587415",
+      "course": "Python",
+      "city": "Noida"
+    },
+    {
+      "id": "31bb",
+      "name": "user3",
+      "email": "user3@ducat.com",
+      "mobile": "2589631478",
+      "course": "node",
+      "city": "ghaziabad"
+    },
+    {
+      "id": "ec41",
+      "name": "Punit 123",
+      "email": "user4@gmail.com",
+      "mobile": "1478523691",
+      "course": "Node",
+      "city": "Noida"
+    },
+    {
+      "id": "9c82",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "mobile": "8523697410",
+      "course": "java",
+      "city": "Delhi"
+    }
+  ]
+}
